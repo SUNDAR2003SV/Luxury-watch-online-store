@@ -34,7 +34,7 @@ Feel free to explore and customize the code for your own projects!
 
 ## Author
 
-Your Name
+Sundaravela A
 
 ---
 
